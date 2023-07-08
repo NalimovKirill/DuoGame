@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fc4e482e70a0a84f9dc3cd37d21e18b, type: 3}
+  m_Name: HorseGame
+  m_EditorClassIdentifier: 
+  _typeOfGame: 0
+  _tittleOfGame: "\u0421\u043A\u0430\u0447\u043A\u0438"
+  _descriptionOfGame: "\u041A\u0430\u043A \u043C\u043E\u0436\u043D\u043E \u0431\u043E\u043B\u044C\u0448\u0435
+    \u0436\u043C\u0438\u0442\u0435 Z \u0438 M, \u0447\u0442\u043E\u0431\u044B \u0434\u043E\u0431\u0435\u0436\u0430\u0442\u044C
+    \u0434\u043E \u0444\u0438\u043D\u0438\u0448\u0430 \u0431\u044B\u0441\u0442\u0440\u0435\u0435
+    \u0441\u043E\u043F\u0435\u0440\u043D\u0438\u043A\u0430!"
+  _imageOfGame: {fileID: 21300000, guid: 095e7cbb2fbe0c64494ba5ae0a8c801e, type: 3}
